@@ -146,7 +146,7 @@ Using JAR:
 
 ```[INFO] Redundant Import: java.util.* at line 2 ```
 
-### 🔮 Future Enhancements
+###  Future Enhancements
 **GUI Interface**
 **IDE Integration (IntelliJ / VS Code)**
 **Multi-language Support**
@@ -157,3 +157,4 @@ Using JAR:
 **Verified detection accuracy manually**
 
 **Ensured no false positives in basic scenarios**
+### NOTE : This project includes both source code and an executable JAR for ease of use.
